@@ -34,5 +34,11 @@ flip-flops used, and how they are connected, determining the type and modulus of
 **OUTPUT SIMULATION**
 
 
+<img width="785" height="118" alt="Image" src="https://github.com/user-attachments/assets/a878f84b-68f0-40f6-81a9-66b47b6ddbd2" />
+
 
 **OUTPUT SYNTHESIS**
+
+
+
+<img width="934" height="209" alt="Image" src="https://github.com/user-attachments/assets/09540330-73d9-4aa8-a8b3-d0e31f8845d9" />
